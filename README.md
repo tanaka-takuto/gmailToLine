@@ -1,0 +1,2 @@
+# gmailToLine
+GmailからLINEに通知するアプリケーション
